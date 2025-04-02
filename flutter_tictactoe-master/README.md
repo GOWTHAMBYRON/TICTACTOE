@@ -1,10 +1,5 @@
 ## TIC TAC TOE
 
-```
-Using getx for state management and custom written sizing class for screen specific sizes, 
-with sound null safety,
-modularized code and better folder struct keeping best practices in mind
-```
 
 <div style="display:flex">
 <img src="https://user-images.githubusercontent.com/37204706/206874116-fe46b884-5e46-4f74-8539-65bd5bc22596.png" style="width:260px;height:500px" />
